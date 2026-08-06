@@ -25,6 +25,7 @@ state preparation, two-qubit gates, and measurements, with no idling noise
 - The [[540,108,18]] simulation is decoded using only a
 single basis of detectors throughout all stages of the telescoping decoder.
 - Non-local qubit movements such as on neutral atom arrays.
+- Assume thickness of a processor for superconducting qubits
 
 ## Quick results
 ### Figure 2

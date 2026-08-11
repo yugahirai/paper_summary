@@ -1,5 +1,5 @@
 # Concatenate codes, save qubits
-[Arxive paper](https://arxiv.org/abs/2402.09606)
+[arXiv paper](https://arxiv.org/abs/2402.09606)
 
 ## Assumptions
 - All-to-all connectivity (they stated this is indispensable)

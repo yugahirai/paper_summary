@@ -1,5 +1,5 @@
 # High-rate qLDPC processors
-[Arxive paper](https://arxiv.org/abs/2607.28795)
+[arXiv paper](https://arxiv.org/abs/2607.28795)
 
 I skipped mathmetical details.
 
